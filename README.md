@@ -1,3 +1,11 @@
-# snake-game-c-console-app
-this is the source code for snake game in consol which i wrote and its good for practicing fundamental concepts of programming.
-hope you enjoy :)
+# snake game with c++
+
+in this repository you will see an algorthm for creating snake game with c++ in console.
+
+## :heavy_check_mark: Authors
+
+-   created by Alireza Tayebinejad from: [@vibracode](https://www.github.com/octokatherine)
+
+## :heavy_check_mark: License
+
+free for everyone to use in any good purposes :heart:
